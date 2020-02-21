@@ -1,0 +1,9 @@
+.tabs {
+    justify-content: center;
+    outline: none;
+    border: none;
+}
+.tabs a {
+    background-color: grey;
+    color: white;
+}

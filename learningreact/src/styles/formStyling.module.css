@@ -1,0 +1,38 @@
+.regForm {
+    position: absolute;
+    width: 300px;
+    top: 10%;
+    left: 42%;
+    background:white;
+    border: 1px solid rgba(196, 177, 207, 0.959);
+    border-radius: 3px;
+}
+.regForm input {
+    position: relative;
+    margin-left: 25px;
+    margin-right: 25px;
+    width: 250px;
+    height: 24px;
+    border: 1px solid rgba(196, 177, 207, 0.959);
+    outline: none;
+    border-radius: 3px;
+}
+.regForm input[type='button'] {
+    position: relative;
+    height: 29px;
+    width: 253px;
+    color: black;
+    background-color: rgba(196, 177, 207, 0.959);
+    display: block;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+.regForm p,h1 {
+    position: relative;
+    margin-left: 25px;
+}
+.avatar {
+    position: relative;
+    left: 125px;
+    color: rgba(196, 177, 207, 0.959);
+}

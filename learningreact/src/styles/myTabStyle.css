@@ -1,0 +1,9 @@
+.nav-link.active {
+    color: white !important;
+    background-color: darkblue !important;
+    outline: none;
+    border: none;
+}
+.nav-link {
+    color: white !important;
+}

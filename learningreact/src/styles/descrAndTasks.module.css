@@ -1,0 +1,17 @@
+.descr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #5bc0de;
+    border-radius: 7px;
+    
+}
+.descr p {
+    padding: 10px;
+    font: normal 18px/1.5em Arial;
+}
+
+.task {
+    margin-top: 10px;
+    border: 1px solid #f0ad4e;
+    border-radius: 7px;
+}

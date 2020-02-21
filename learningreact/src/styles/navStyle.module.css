@@ -1,0 +1,15 @@
+.navBar {
+    height: 36px;
+    width: 100%;
+    background-color: navy;
+
+}
+.navBar li{
+    cursor: pointer;
+    position: relative;
+    text-align: center;
+    display: inline-block;
+    margin-top: 8px;
+    margin-right: 155px;
+    color: paleturquoise;   
+}
